@@ -1,29 +1,19 @@
-
-
-
 // bootstrap
 @import 'bootstrap/bootstrap';
-
 // Helpers
 @import 'helpers/variables';
 @import 'helpers/mixins';
- // Base
+// Base
 @import 'base/reset';
 @import 'base/headings';
 // Components
 @import 'components/font-kit';
 // @import 'components/buttons';
-// @import 'components/navigation';
+@import 'components/navigation';
 // @import 'components/plugins';
-
 // Pages
 @import 'pages/style-guide';
 @import 'pages/header';
 @import 'pages/home';
 // @import 'pages/inner-pages';
 @import 'pages/footer';
-
-
-
-
-
